@@ -1,4 +1,4 @@
-![Description of GIF](introduction2.gif)
+<img src="introduction2.gif" alt="Description of GIF" width="400" height="300">
 
 # Cathy Wu (吳逸家)
 
