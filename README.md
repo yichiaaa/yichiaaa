@@ -1,4 +1,4 @@
-![Description of GIF](relative/path/to/introduction.gif)
+![Description of GIF](introduction.gif)
 # Cathy Wu (吳逸家)
 
 - **Birthday:** 2002/09/22
