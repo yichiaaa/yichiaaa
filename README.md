@@ -81,7 +81,7 @@
 
 - **虛擬網站架設**
   - 網站企劃(Website Planning)之課程專案，設計一虛擬台北美食推薦網頁，架設於Amazon S3 Server
-  - 網站連結: 
+  - 網站連結: https://yichiaaa.github.io/my-website/
   
 ## c# 程式碼
 
