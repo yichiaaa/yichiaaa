@@ -86,7 +86,12 @@
   
 ## c# 程式碼
 
-- **製作**
-  - 網站企劃(Website Planning)之課程專案，設計一虛擬台北美食推薦網頁，架設於Amazon S3 Server
-  - 網站連結: 
+- **骰寶賭博遊戲**
+  - 設計遊戲介面及遊玩方式，讓玩家進入後可自行下注金額，並遊玩骰寶遊戲
+  - 網站連結: [dice game](https://github.com/yichiaaa/c/blob/be0184d69acaa35338f84d0c0002d7f7522b3a95/dice.md)
+    
+- **學生成績資訊系統與記帳系統延伸**
+  - 利用下拉式清單與其他視窗，提升使用者體驗與增加程式的豐富性
+  - 網站連結: [dice game](https://github.com/yichiaaa/c/blob/be0184d69acaa35338f84d0c0002d7f7522b3a95/score.md)
+  
   
