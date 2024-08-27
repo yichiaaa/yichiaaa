@@ -69,7 +69,10 @@
   - 123
 
 - **ptt爬蟲分析專案**
-  - 123
+  - 使用 Scrapy 框架爬取 PTT 股票看板的內容，並儲存為 CSV 檔案。
+  - 了解Scrapy 優勢與要求：Scrapy 提供全面框架，適合大型專案，但需了解架構設定和數據處理。
+  - 展示了如何爬取多頁面內容，控制爬蟲速度，並處理數據存儲。
+  - 網站連結: [ptt多頁爬蟲](https://github.com/yichiaaa/Data_Analysis/blob/41b8fea74993931339a6e837df06d14f27b8ee50/ptt.md)
 
 - **政府公開資料API爬蟲專案**
   - 資料抓取與處理：用 `requests` 套件從 API 取得氣象數據，轉換為 Python 字典進行處理。
