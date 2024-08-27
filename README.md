@@ -27,10 +27,6 @@
 
 ## 數據分析專案
 
-- **SQL營收與使用者資料分析專案**
-  - 從整體資料庫架設到後續進行RFM分析潛在客戶
-  - 
-    
 - **WEKA分析研究音樂產業趨勢並連結音樂取向與心理疾病的影響**
   - 整理數據並透過簡單的敘述性分析了解數據內容
   - 利用weka中apriori及hotspot，與預測性分析則利用Bayes net,naive Bayes,logistic,及j48
@@ -52,6 +48,12 @@
     - 依變數使用"是否為載具使用者"來對此模型做RandomForest，得出結論為此模型之平均精確率達76%
   - [查看 PDF 文件](https://github.com/yichiaaa/Data_Analysis/blob/01f3fdfedebee07c2c329a05fbf7d453556ec89a/WEKA%E5%A4%A7%E7%9C%BE%E5%B0%8D%E6%96%BC%E8%BC%89%E5%85%B7%E4%BD%BF%E7%94%A8%E4%B9%8B%E7%9B%B8%E5%AE%B9%E6%80%A7%E8%88%87%E7%99%BC%E7%A5%A8%E6%8D%90%E8%B4%88%E4%B9%8B%E5%BD%B1%E9%9F%BF.pdf))
 
+- **SQL營收與使用者資料分析**
+  - 使用 XAMPP 與 phpMyAdmin 作為資料庫架設工具
+  - 建置並下載了六個資料庫，並對其內部資料進行了重整與關聯性重建，並增設了 RFM 點數資料庫以提升數據洞察。
+  - 使用 Python 的資料視覺化套件，如 Numpy 和 Pandas，並連接 Jupyter Notebook 來繪製視覺化圖示。
+   - [SQL使用者資料分析](https://github.com/yichiaaa/Data_Analysis/blob/dbf1b8982b634ca1ba7c2217d04016effa1b7aef/sql.md)
+    
 - **儒鴻紡織-財務報表分析**
   - 產業分析內外部、財報報表之靜態與動態分析
   - 重要會計政策關鍵查核事項與重要會計項目分析、企業價值分析(股利折現法、現金流量折現法、市場法)
