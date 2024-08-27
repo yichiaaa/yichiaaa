@@ -51,7 +51,7 @@
     - 高收入且年齡較高的族群使用率較少，可以向這個族群中的居住於北部及大學教育程度以上的市場推廣載具這項服務
     - 問卷數據中顯示不知道愛心捐贈碼的樣本佔55%，且可觀察到曾經捐贈過發票但不知道捐贈碼的樣本亦是多數
     - 依變數使用"是否為載具使用者"來對此模型做RandomForest，得出結論為此模型之平均精確率達76%
-  - [查看 PDF 文件]([WEKA大眾對於載具使用之相容性與發票捐贈之影響.pdf](https://github.com/yichiaaa/Data_Analysis/blob/01f3fdfedebee07c2c329a05fbf7d453556ec89a/WEKA%E5%A4%A7%E7%9C%BE%E5%B0%8D%E6%96%BC%E8%BC%89%E5%85%B7%E4%BD%BF%E7%94%A8%E4%B9%8B%E7%9B%B8%E5%AE%B9%E6%80%A7%E8%88%87%E7%99%BC%E7%A5%A8%E6%8D%90%E8%B4%88%E4%B9%8B%E5%BD%B1%E9%9F%BF.pdf))
+  - [查看 PDF 文件](https://github.com/yichiaaa/Data_Analysis/blob/01f3fdfedebee07c2c329a05fbf7d453556ec89a/WEKA%E5%A4%A7%E7%9C%BE%E5%B0%8D%E6%96%BC%E8%BC%89%E5%85%B7%E4%BD%BF%E7%94%A8%E4%B9%8B%E7%9B%B8%E5%AE%B9%E6%80%A7%E8%88%87%E7%99%BC%E7%A5%A8%E6%8D%90%E8%B4%88%E4%B9%8B%E5%BD%B1%E9%9F%BF.pdf))
 
 - **儒鴻紡織-財務報表分析**
   - 產業分析內外部、財報報表之靜態與動態分析
