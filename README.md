@@ -66,7 +66,8 @@
 ## 網頁爬蟲分析專案
 - **基礎爬蟲專案**
   - LINE電影聲量與Youtube網頁爬蟲結果
-  - 網站連結: [單頁爬蟲](
+  - 使用 requests 和 BeautifulSoup 處理靜態頁面，selenium 處理動態頁面。
+  - 網站連結: [單頁爬蟲](https://github.com/yichiaaa/Data_Analysis/blob/9fd793a3f3a5a1879054e16a11053b0fc7953fa7/da.md)
 
 - **政府公開資料API爬蟲專案**
   - 資料抓取與處理：用 `requests` 套件從 API 取得氣象數據，轉換為 Python 字典進行處理。
