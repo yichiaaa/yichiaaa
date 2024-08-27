@@ -64,15 +64,9 @@
   - [查看 PDF 文件](https://github.com/yichiaaa/Data_Analysis/blob/01f3fdfedebee07c2c329a05fbf7d453556ec89a/%E5%84%92%E9%B4%BB%E7%B4%A1%E7%B9%94-%E8%B2%A1%E5%8B%99%E5%A0%B1%E8%A1%A8%E5%88%86%E6%9E%90.pdf)
 
 ## 網頁爬蟲分析專案
-
-- **Youtube網頁爬蟲專案**
-  - 123
-
-- **ptt爬蟲分析專案**
-  - 使用 Scrapy 框架爬取 PTT 股票看板的內容，並儲存為 CSV 檔案。
-  - 了解Scrapy 優勢與要求：Scrapy 提供全面框架，適合大型專案，但需了解架構設定和數據處理。
-  - 展示了如何爬取多頁面內容，控制爬蟲速度，並處理數據存儲。
-  - 網站連結: [ptt多頁爬蟲](https://github.com/yichiaaa/Data_Analysis/blob/41b8fea74993931339a6e837df06d14f27b8ee50/ptt.md)
+- **基礎爬蟲專案**
+  - LINE電影聲量與Youtube網頁爬蟲結果
+  - 網站連結: [單頁爬蟲](
 
 - **政府公開資料API爬蟲專案**
   - 資料抓取與處理：用 `requests` 套件從 API 取得氣象數據，轉換為 Python 字典進行處理。
@@ -80,9 +74,12 @@
   - 定時自動執行：利用 `apscheduler` 每 10 分鐘自動更新 CSV 檔案。
   -  網站連結: [open API爬蟲執行方式](https://github.com/yichiaaa/Data_Analysis/blob/e63738b99f10eb8e388ef4d13cee8939290bc0c5/open_api.md)
 
-- **LINE電影聲量爬蟲專案**
-  - 123
-
+- **ptt爬蟲分析專案**
+  - 使用 Scrapy 框架爬取 PTT 股票看板的內容，並儲存為 CSV 檔案。
+  - 了解Scrapy 優勢與要求：Scrapy 提供全面框架，適合大型專案，但需了解架構設定和數據處理。
+  - 展示了如何爬取多頁面內容，控制爬蟲速度，並處理數據存儲。
+  - 網站連結: [ptt多頁爬蟲](https://github.com/yichiaaa/Data_Analysis/blob/41b8fea74993931339a6e837df06d14f27b8ee50/ptt.md)
+  
 ## HTML/CSS 程式碼
 
 - **虛擬網站架設**
