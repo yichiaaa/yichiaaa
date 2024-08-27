@@ -22,6 +22,7 @@
 <img src="vba2.png" alt="JavaScript" width="50" height="60"/> &nbsp;
 <img src="Google_Ads.png" alt="JavaScript" width="40" height="50"/> &nbsp;
 <img src="weka.jpg" alt="JavaScript" width="50" height="50"/> &nbsp;
+<img src="Power-BI-Logo.png" alt="JavaScript" width="50" height="50"/> &nbsp;
 &nbsp;
 
 ## 數據分析專案
