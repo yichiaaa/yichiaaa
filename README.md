@@ -72,8 +72,10 @@
   - 123
 
 - **政府公開資料API爬蟲專案**
-  - 使用 Python 處理 JSON 檔案、如何定期執行程式，如何使用發出網路請求擷取網頁 API 資料
-  - 
+  - 資料抓取與處理：用 `requests` 套件從 API 取得氣象數據，轉換為 Python 字典進行處理。
+  - 資料儲存：使用 `csv.DictWriter` 將數據寫入 `weather_data.csv`。
+  - 定時自動執行：利用 `apscheduler` 每 10 分鐘自動更新 CSV 檔案。
+  -  網站連結: [open API爬蟲執行方式](https://github.com/yichiaaa/Data_Analysis/blob/e63738b99f10eb8e388ef4d13cee8939290bc0c5/open_api.md)
 
 - **LINE電影聲量爬蟲專案**
   - 123
