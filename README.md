@@ -2,8 +2,7 @@
 
 ## Cathy Wu (吳逸家)
 
-- **Birthday:** 2002/09/22
-- **Education:** 國立台北大學 / 企業管理學系
+- **Education:** 國立清華大學 / 科技管理所
 - **E-mail:** ococ1022@gmail.com
 - **Certification:**
   - Google Developer 開發者社群社員
