@@ -1,5 +1,3 @@
-<img src="introduction2.gif" alt="Description of GIF" width="800" height="320">
-
 ## Cathy Wu (吳逸家)
 
 - **Education:** 國立清華大學 / 科技管理所
