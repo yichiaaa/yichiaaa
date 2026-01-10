@@ -26,8 +26,8 @@
 - **商業 x 程式融合：臺北大學管理實務專題競賽第一名**
   - 結合過去商業競賽的經驗與後續學習的爬蟲程式與數據分析技能，畢業專題榮獲全系第一名
   - 透過網頁爬蟲爬取threads上面的短文本資料，並選出情緒分析工具進行社群媒體中的情緒分析與關鍵字分析，發現負面情緒具有較高的互動力，因其爭議性與平台推播機制能有效吸引用戶參與，但長期可能影響社群氛圍。此外，各類貼文的情緒表達有所不同，如外貌貼文偏正向、時事貼文呈現「同溫層效應」。
-  - 研究專題連結: https://docs.google.com/document/d/15u2qLMFq62OgYhUrk-bCaraw21J7KGsfIIbGohUczJ8/edit?tab=t.0
-  - [查看 PDF 文件] (https://github.com/yichiaaa/web-crawler/blob/9e07ed0a505785908cff280c289825ac8e8ef866/project)
+  - [研究專題連結](https://github.com/yichiaaa/yichiaaa/blob/ba4556fa59194bcf9d8c0c1531852ca32b51ce0e/%E5%B0%88%E9%A1%8C.pdf)
+  - [查看程式碼] (https://github.com/yichiaaa/web-crawler/blob/9e07ed0a505785908cff280c289825ac8e8ef866/project)
  
 ## 數據分析專案
 
